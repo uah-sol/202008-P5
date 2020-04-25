@@ -33,14 +33,9 @@
  * - Velocidad angular en X, Y y Z en grados/segundo
  * - Aceleración en g's en X, Y y Z
  *
- * A continuación, se ha de calibrar el sensor obteniendo el offset medio de
- * 1000 muestras de cada medida. La medida real será la obtenida del sensor
- * el offset medio calculado.
- *
  * Por último, se imprimirán a través de la puerta serie medidas independientes
  * para su representación empleando el Serial Plotter del IDE de Arduino. Las
- * medidas deben de aparecer cada una en una nueva línea.
- *
+ * medidas deben de aparecer cada una en una nueva línea
  *
  */
 
